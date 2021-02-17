@@ -1,0 +1,20 @@
+E:\source\repos\C# ders 20\diziler 2.3\diziler 2.3\bin\Debug\diziler 2.3.exe.config
+E:\source\repos\C# ders 20\diziler 2.3\diziler 2.3\bin\Debug\diziler 2.3.exe
+E:\source\repos\C# ders 20\diziler 2.3\diziler 2.3\bin\Debug\diziler 2.3.pdb
+E:\source\repos\C# ders 20\diziler 2.3\diziler 2.3\obj\Debug\diziler 2.3.csprojAssemblyReference.cache
+E:\source\repos\C# ders 20\diziler 2.3\diziler 2.3\obj\Debug\diziler_2._3.Form1.resources
+E:\source\repos\C# ders 20\diziler 2.3\diziler 2.3\obj\Debug\diziler_2._3.Properties.Resources.resources
+E:\source\repos\C# ders 20\diziler 2.3\diziler 2.3\obj\Debug\diziler 2.3.csproj.GenerateResource.cache
+E:\source\repos\C# ders 20\diziler 2.3\diziler 2.3\obj\Debug\diziler 2.3.csproj.CoreCompileInputs.cache
+E:\source\repos\C# ders 20\diziler 2.3\diziler 2.3\obj\Debug\diziler 2.3.exe
+E:\source\repos\C# ders 20\diziler 2.3\diziler 2.3\obj\Debug\diziler 2.3.pdb
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 20\diziler 2.3\diziler 2.3\bin\Debug\diziler 2.3.exe.config
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 20\diziler 2.3\diziler 2.3\bin\Debug\diziler 2.3.exe
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 20\diziler 2.3\diziler 2.3\bin\Debug\diziler 2.3.pdb
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 20\diziler 2.3\diziler 2.3\obj\Debug\diziler 2.3.csprojAssemblyReference.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 20\diziler 2.3\diziler 2.3\obj\Debug\diziler_2._3.Form1.resources
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 20\diziler 2.3\diziler 2.3\obj\Debug\diziler_2._3.Properties.Resources.resources
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 20\diziler 2.3\diziler 2.3\obj\Debug\diziler 2.3.csproj.GenerateResource.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 20\diziler 2.3\diziler 2.3\obj\Debug\diziler 2.3.csproj.CoreCompileInputs.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 20\diziler 2.3\diziler 2.3\obj\Debug\diziler 2.3.exe
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 20\diziler 2.3\diziler 2.3\obj\Debug\diziler 2.3.pdb
